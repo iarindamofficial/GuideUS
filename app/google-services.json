@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "804307842383",
+    "firebase_url": "https://guide-us-95896.firebaseio.com",
+    "project_id": "guide-us-95896",
+    "storage_bucket": "guide-us-95896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804307842383:android:30d359bed4d02f0a",
+        "android_client_info": {
+          "package_name": "guideus.arindam.com.guideus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804307842383-pokqi9meh1j1i2bp8mqma6neg8ktidus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "guideus.arindam.com.guideus",
+            "certificate_hash": "30c18ee0ecd15bacab3bdefcbaad0feefdf468c5"
+          }
+        },
+        {
+          "client_id": "804307842383-shglst8l75atju0qldpurci02mombca2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8K8tmmWHAF_eDBotXx-8dMJWEPHPFpoM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804307842383-shglst8l75atju0qldpurci02mombca2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

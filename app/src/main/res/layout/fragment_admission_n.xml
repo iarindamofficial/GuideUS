@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:id="@+id/fragmentAdmission">
+
+    <LinearLayout
+            android:padding="50dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:weightSum="13"
+            android:orientation="vertical"
+            android:background="@drawable/new_login_gradients"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            >
+    <TextView
+        android:id="@+id/admissionTextview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="New Addmission"
+        android:textAlignment="center"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/admissionFillup"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="FILL UP THE DETAILS"
+        android:textAlignment="center"
+        android:textSize="20dp" />
+
+
+   
+
+        <EditText
+            android:layout_marginTop="10dp"
+            android:id="@+id/adEmail"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/background_login"
+            android:ems="10"
+            android:hint="Email "
+
+            android:inputType="textPersonName"
+            android:textSize="15dp"
+           />
+
+        <EditText
+
+            android:layout_marginTop="10dp"
+            android:id="@+id/adStream"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/background_login"
+            android:ems="10"
+            android:hint="Enter Your Stream Name"
+            android:inputType="textPersonName"
+            android:textSize="15dp"
+             />
+
+        <EditText
+            android:layout_marginTop="10dp"
+            android:id="@+id/adName"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/background_login"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="textPersonName"
+            android:textSize="15dp"
+             />
+
+        <EditText
+            android:layout_marginTop="10dp"
+            android:id="@+id/adFather"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/background_login"
+            android:ems="10"
+            android:hint="Father's Name"
+            android:inputType="textPersonName"
+            android:textSize="15dp"
+            />
+
+        <EditText
+            android:layout_marginTop="10dp"
+            android:id="@+id/adGender"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/background_login"
+            android:ems="10"
+            android:hint="Gender"
+            android:inputType="textPersonName"
+            android:textSize="15dp"
+      />
+
+        <EditText
+            android:layout_marginTop="10dp"
+            android:id="@+id/adAddress"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/background_login"
+            android:ems="10"
+            android:hint="Address"
+            android:inputType="textPersonName"
+            android:textSize="15dp"
+             />
+
+        <EditText
+            android:layout_marginTop="10dp"
+            android:id="@+id/adPhone"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/background_login"
+            android:hint="Phone No"
+            android:inputType="phone"
+            android:textSize="15dp"
+            />
+
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/adSubmit"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:background="@drawable/background_login"
+            android:text="Submit"
+          />
+
+
+  
+        </LinearLayout>
+
+    </FrameLayout>
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Guide US</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="etEmail">Email ID</string>
+    <string name="etPassword">Password</string>
+    <string name="forget_your_password">Forget Password ? </string>
+    <string name="desc">ImageView</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Guide US</string>
+    <string name="nav_header_subtitle">EIEM</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="action_logout">Logout</string>
+    <string name="action_edit_profile">Edit Profile</string>
+
+
+    <string name="email">Enter Email</string>
+    <string name="enter_name">Enter name</string>
+    <string name="fill_the_details">Fillup the details</string>
+    <string name="enterpassword">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="already_signned_in_login">Already Signned in / Login</string>
+    <string name="elitte_institute_of_engineering_and_management_eiem_is_a_coeducational_private_diploma_engineering_college_located_in_sub_urban_of_kolkata_west_bengal_west_bengal_india_india_it_offers_diploma_courses_in_engineering_and_technology_the_college_was_set_up_by_the_pinnaccle_educational_trust_in_2009">Elitte Institute of Engineering and Management (EIEM) is a coeducational, private diploma Engineering college located in sub-urban of Kolkata, West Bengal, West Bengal (India), India. It offers Diploma courses in Engineering and Technology. The college was set up by the Pinnaccle Educational Trust in 2009.</string>
+    <string name="todo">TODO</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="admission">Admission</string>
+    <string name="gallery">Gallery</string>
+    <string name="notice">Notice</string>
+    <string name="for_students">For Students</string>
+    <string name="syllabus">Syllabus</string>
+    <string name="notes">Notes</string>
+    <string name="Welcome">Welcome </string>
+    <string name="welcome">welcomenew</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_eiem">ABOUT EIEM</string>
+    <string name="about_eiem_fragment_txt">About EIEM</string>
+    <string name="details_about_eiem_full">Elitte Institute of Engineering and Management is a coeducational, private diploma Engineering college located in sub-urban of Kolkata, West Bengal, West Bengal, India. It offers Diploma courses in Engineering and Technology. The college was set up by the Pinnaccle Educational Trust in 2009.</string>
+
+    <string name="eiem_about">Eiem about</string>
+    <string name="project_guide">Project Guide:</string>
+    <string name="srabanti_chakrabarty_sourav_nag"><![CDATA[Srabanti Chakrabarty & Sourav Nag]]></string>
+    <string name="about_guide_us">About Guide us</string>
+    <string name="the_project_guide_us_is_basically_an_android_application_where_students_will_get_informed_by_every_notice_being_uploaded_in_the_website_of_our_college_and_also_will_be_able_to_see_it_another_facility_is_every_student_and_respected_faculties_will_be_able_to_upload_image_file_so_that_other_students_can_see_that_particular_file_as_well_syllabus_of_each_semester_will_be_provided_and_an_online_admission_system_will_be_made">The project “Guide Us” is basically an android application where students will get informed by every notice being uploaded in the website of our college and also will be able to see it. Another facility is, every student and respected faculties will be able to upload image file so that other students can see that particular file as well. Syllabus of each semester will be provided and an online admission system will be made.</string>
+
+    <string name="devolped_by">Devolped By:</string>
+    <string name="arindam_dutta">Arindam Dutta(Lead),
+    Ruchira Biswas , Anirban Acharjee , Peu Nopti , Debojit Das  </string>
+    <string name="thank_you">Thank You</string>
+    <string name="please_enter_the_e_mail_address_to_reset_your_password">Please enter the E-mail Address to reset your password.</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="reset">Reset</string>
+
+
+</resources>

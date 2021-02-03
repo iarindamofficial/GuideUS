@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/new_login_gradients"
+
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_About"
+            android:icon="@drawable/ic_public_black_24dp"
+            android:title="@string/about" />
+        <item
+            android:id="@+id/nav_Admission"
+            android:icon="@drawable/ic_admission_black_24dp"
+            android:title="@string/admission" />
+        <item
+            android:id="@+id/nav_Gallery"
+            android:icon="@drawable/ic_image_black_24dp"
+            android:title="@string/gallery" />
+        <item
+            android:id="@+id/nav_Notice"
+            android:icon="@drawable/ic_notification_black_24dp"
+            android:title="@string/notice" />
+    </group>
+
+    <item android:title="@string/for_students">
+        <menu>
+            <item
+                android:id="@+id/nav_Syllabus"
+                android:icon="@drawable/ic_syllabus_black_24dp"
+                android:title="@string/syllabus" />
+            <item
+                android:id="@+id/nav_Notes"
+                android:icon="@drawable/ic_notes_black_24dp"
+                android:title="@string/notes" />
+        </menu>
+    </item>
+
+</menu>
